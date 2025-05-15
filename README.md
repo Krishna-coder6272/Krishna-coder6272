@@ -6,7 +6,7 @@
 - 💬 Ask me about open source, security, or GitHub Actions!
 - 📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/krishna-sahu-66a1b7275/))
 ### 👩 Pronouns 
-        He/him
+He/him
 ### 🤓 Fun Facts
 - I love explaining cybersecurity with memes.
 - My terminal is more colorful than my wardrobe.
