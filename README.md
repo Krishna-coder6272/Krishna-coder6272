@@ -1,19 +1,23 @@
-- 👋 Hi, I’m @Krishna-coder6272
-- 🔐 I'm passionate about cybersecurity and building tools that keep users safe.
-- 🛠️ I work with Python
-- 🌱 I’m Currently building a phishing simulation platform for Indian SMEs.
-- 💞️ I’m looking to collaborate on building a phishing simulation platform for Indian SMEs.
-- 💬 Ask me about open source, security, or GitHub Actions!
-- 📫 Reach me: [LinkedIn]((https://www.linkedin.com/in/krishna-sahu-66a1b7275/))
-### 👨 Pronouns 
-He/him
-### 🤓 Fun Facts
-- I love explaining cybersecurity with memes.
-- My terminal is more colorful than my wardrobe.
-- I once simulated a phishing attack on myself — and failed. 😂
+# 👋 Hi, I'm Krishna Sahu
 
+🎓 I'm currently pursuing my Bachelor's at KS Saket PG College  
+🔐 Passionate about Offensive Security, Red Teaming & OSINT  
+💻 I love building cybersecurity tools like GhostShadX, SharX, VulnScanX, and more  
+📚 Currently learning CRTA from Cyberwarfare Labs  
+🎯 Goal: To become a skilled Red Teamer & Bug Bounty Hunter
 
-<!---
-Krishna-coder6272/Krishna-coder6272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔧 Projects I've Worked On
+- **GhostShadX** – A GUI-based VPN kill switch & log cleaner
+- **SharX** – SMB Brute Force Automation Tool
+- **VulnScanX** – Automated Vulnerability Scanner
+- **PacketHawkX** – Network Packet Analyzer like Wireshark
+- **MedGuardX** – IoT Security & Monitoring for Hospitals
+
+## 🛠️ Skills
+- Python, Bash, PowerShell
+- Burp Suite, Metasploit, Nmap, Wireshark
+- Red Teaming, OSINT, Network Reconnaissance
+- Git, GitHub, Linux (Kali, Ubuntu)
+
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-sahu-66a1b7275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
